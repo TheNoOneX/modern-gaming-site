@@ -27,7 +27,7 @@ To get started with the Stunning Modern Gaming Theme Responsive Website, follow 
 
 bash
 Copy code
-git clone https://github.com/your-username/stunning-modern-gaming-theme.git
+git clone https://github.com/TheNoOneX/modern-gaming-site.git
 Install dependencies: If you're using a package manager like npm or yarn, install the necessary dependencies.
 
 
