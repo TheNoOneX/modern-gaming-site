@@ -1,7 +1,7 @@
 const nextButton = document.querySelector(".next-btn");
 const video = document.querySelector(".hero-video");
 
-const movieList = ["assets/videos/hero-1.mp4","assets/videos/hero-2.mp4","assets/videos/hero-3.mp4","assets/videos/hero-4.mp4"];
+const movieList = ["hero-1.mp4","hero-2.mp4","hero-3.mp4","hero-4.mp4"];
 
 let index=0;
 
